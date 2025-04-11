@@ -1,0 +1,51 @@
+title {
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+body {
+  font-family: verdana, "californian FB", "serif";
+  line-height: 1.6;
+  background-color: #444040;
+  color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 2.5em;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+input,
+textarea {
+  font-size: 1em;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #696969;
+  border-radius: 5px;
+  background-color: #444444;
+  outline: none;
+  text-align: center;
+}
+
+input:focus,
+textarea:focus {
+  background-color: #444444;
+  border-color: #333;
+  outline: none;
+  text-align: center;
+}
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #3d3d3d;
+  border-radius: 10px;
+  text-align: center;
+
+}
